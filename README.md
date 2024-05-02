@@ -15,8 +15,8 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Programaç
 
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSanto&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSanto&layout=compact&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Aljona&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Aljona&layout=compact&theme=radical"/>
 </div>
 
 
