@@ -15,8 +15,9 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Programaç
 
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Aljona&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Aljona&layout=compact&theme=radical"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Aljona&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Raphael-Aljona/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Aljona&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/Raphael-Aljona/github-readme-stats)
 </div>
 
 
@@ -27,12 +28,16 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Programaç
 <img align="center" alt="Raphael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+<img align="center" alt="Raphael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+<img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
 
 </br>
 
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
-    <p>Cursando, 1° Semestre, Programação de Jogos Digitais, Escola SENAI Paulo Skaf</p>
+    <p>Cursando, 2° Semestre, Programação de Jogos Digitais, Escola SENAI Paulo Skaf</p>
 </div>
 
