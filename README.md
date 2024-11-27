@@ -15,7 +15,7 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Programaç
 
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Aljona&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Raphael-Aljona/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Aljona&count_private=false&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Raphael-Aljona/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Aljona&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/Raphael-Aljona/github-readme-stats)
 </div>
