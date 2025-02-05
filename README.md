@@ -8,7 +8,7 @@
 </div>
 
 <div>
-Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Programação de jogos digitais.
+Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvimento de Sistemas e Programação em Jogos Digitais.
 </div>
 
 </br>
