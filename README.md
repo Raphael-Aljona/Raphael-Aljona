@@ -37,6 +37,7 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvi
 
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
-    <p>Cursando, 2° Semestre, Programação de Jogos Digitais, Escola SENAI Paulo Skaf</p>
+    <p>Cursando, 3° Semestre, Programação de Jogos Digitais, Escola SENAI Paulo Skaf</p>
+    <p>Cursando, 1° Semestre, Desenvolvimento de Sistemas, Escola SENAI Paulo Skaf</p>
 </div>
 
